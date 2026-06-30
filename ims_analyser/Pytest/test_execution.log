@@ -1,0 +1,8 @@
+2026-06-21 12:20:20,456 - INFO - loger startred
+2026-06-21 12:37:14,736 - DEBUG - debug started
+2026-06-21 12:37:14,740 - DEBUG - Starting new HTTPS connection (1): testapi.fr:443
+2026-06-21 12:37:16,747 - DEBUG - https://testapi.fr:443 "POST /en/about-us/who-we-are/ HTTP/1.1" 200 6693
+2026-06-21 12:40:05,663 - INFO - loger startred
+2026-06-21 12:40:05,664 - DEBUG - debug started
+2026-06-21 12:40:05,667 - DEBUG - Starting new HTTPS connection (1): testapi.fr:443
+2026-06-21 12:40:07,452 - DEBUG - https://testapi.fr:443 "POST /en/about-us/who-we-are/ HTTP/1.1" 200 6691

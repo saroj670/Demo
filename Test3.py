@@ -1,0 +1,9 @@
+n1 = 10
+n2 = 20
+print ("before swap",n1)
+print ("before swap",n2)
+temp = n1 
+n1 = n2
+n2 = temp
+print ("after swap",n1)
+print ("after swap",n2)
